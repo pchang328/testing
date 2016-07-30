@@ -1,1 +1,2 @@
 first file :)
+>>>>>>> Changing file1.txt from new/testing
